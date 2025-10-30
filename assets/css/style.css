@@ -48,3 +48,34 @@
   margin-top: 30px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
+.service-bg-9 {
+    background-image: url(../img/service-bg-9.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    height: 250px;
+}
+
+.service-bg-10 {
+    background-image: url(../img/service-bg-10.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    height: 250px;
+}
+
+.service-bg-11 {
+    background-image: url(../img/service-bg-11.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    height: 250px;
+}
